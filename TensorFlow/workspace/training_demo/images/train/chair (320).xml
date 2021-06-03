@@ -1,0 +1,26 @@
+<annotation>
+	<folder>chair</folder>
+	<filename>chair (320).jpg</filename>
+	<path>D:\Bangkit Program\Bangkit-CP\Bangkit-Final-Project-Dataset\img\train\chair\chair (320).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>591</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chair</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>64</xmin>
+			<ymin>28</ymin>
+			<xmax>352</xmax>
+			<ymax>574</ymax>
+		</bndbox>
+	</object>
+</annotation>

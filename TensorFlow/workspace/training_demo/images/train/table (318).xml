@@ -1,0 +1,26 @@
+<annotation>
+	<folder>table</folder>
+	<filename>table (318).jpg</filename>
+	<path>D:\Bangkit Program\Bangkit-CP\Bangkit-Final-Project-Dataset\img\train\table\table (318).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>443</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>4</ymin>
+			<xmax>631</xmax>
+			<ymax>434</ymax>
+		</bndbox>
+	</object>
+</annotation>

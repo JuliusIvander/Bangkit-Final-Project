@@ -1,0 +1,26 @@
+<annotation>
+	<folder>sofa</folder>
+	<filename>sofa (255).jpg</filename>
+	<path>D:\Bangkit Program\Bangkit-CP\Bangkit-Final-Project-Dataset\img\train\sofa\sofa (255).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>422</width>
+		<height>317</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sofa</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>22</xmin>
+			<ymin>89</ymin>
+			<xmax>383</xmax>
+			<ymax>239</ymax>
+		</bndbox>
+	</object>
+</annotation>

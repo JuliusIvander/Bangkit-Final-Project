@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bed</folder>
+	<filename>bed (145).jpg</filename>
+	<path>D:\Bangkit Program\Bangkit-CP\Bangkit-Final-Project-Dataset\img\train\bed\bed (145).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>451</width>
+		<height>283</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>23</xmin>
+			<ymin>27</ymin>
+			<xmax>429</xmax>
+			<ymax>276</ymax>
+		</bndbox>
+	</object>
+</annotation>

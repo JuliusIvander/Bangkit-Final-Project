@@ -1,0 +1,26 @@
+<annotation>
+	<folder>swivelchair</folder>
+	<filename>swivelchair (201).jpg</filename>
+	<path>D:\Bangkit Program\Bangkit-CP\Bangkit-Final-Project-Dataset\img\train\swivelchair\swivelchair (201).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>180</width>
+		<height>216</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>swivelchair</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>23</ymin>
+			<xmax>173</xmax>
+			<ymax>202</ymax>
+		</bndbox>
+	</object>
+</annotation>

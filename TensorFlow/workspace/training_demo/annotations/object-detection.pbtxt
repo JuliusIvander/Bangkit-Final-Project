@@ -1,0 +1,20 @@
+item {
+    id: 1
+    name: 'bed'
+}
+item {
+    id: 2
+    name: 'chair'
+}
+item {
+    id: 3
+    name: 'sofa'
+}
+item {
+    id: 4
+    name: 'swivelchair'
+}
+item {
+    id: 5
+    name: 'table'
+}
